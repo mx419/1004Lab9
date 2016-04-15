@@ -1,0 +1,17 @@
+{
+  "name": "lab9",
+  "homepage": "https://github.com/mx419/1004Lab9",
+  "authors": [
+    "mx419 <mx419@nyu.edu>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
